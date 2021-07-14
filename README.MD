@@ -16,7 +16,8 @@ Port scanning tool.
 Tool to check DNS records.
 
 - /dig/:host - return A and NS records;
-- /dig/:host/:record - returns any record you provide and NS records.
+- /dig/:host/:record - returns any record you provide and NS records;
+- /dig/:host/:record/:server - returns any record you provide and NS records from spesific NS server.
 
 ## ping
 
